@@ -10,7 +10,7 @@ ruby '2.3.3'
 
 gem 'rails', '~> 5.1.4'
 
-gem 'sqlite3', '1.3.7'
+gem 'sqlite3', '> 1.3.7'
 
 gem 'puma', '~> 3.7'
 
